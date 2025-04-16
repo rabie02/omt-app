@@ -1,0 +1,33 @@
+.footer {
+    background: url();
+    background-size: cover;
+    color: #fff;
+    padding: 20px 0;
+  }
+  
+  .box-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .box {
+    flex: 1;
+    margin-right: 20px;
+  }
+  
+  .box h3 {
+    color: #fff;
+  }
+  
+  .box a {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  .credit {
+    margin-top: 20px;
+    text-align: center;
+    color: #ccc;
+  }
